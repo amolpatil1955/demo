@@ -78,8 +78,7 @@ const Navbar = () => {
             <p className="font-bold text-lg">Amol Rajput</p>
             <p className="text-sm text-gray-500">amol@example.com</p>
             <button className="mt-3 w-full bg-linear-to-r from-purple-500 to-pink-500 text-white py-1.5 rounded-lg hover:scale-105 transition-all">
-              Logout
-            </button>
+logiin and some emo            </button>
           </div>
         </div>
       </div>
