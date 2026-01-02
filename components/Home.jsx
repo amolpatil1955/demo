@@ -3,7 +3,7 @@ import React from 'react'
 const home = () => {
   return (
     <div>
-      home page featire builds
+home ko pull karek le wapis
     </div>
   )
 }
