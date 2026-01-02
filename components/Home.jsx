@@ -3,8 +3,7 @@ import React from 'react'
 const home = () => {
   return (
     <div>
-home ko pull karek le wapis
-    </div>
+chal nikal salle    </div>
   )
 }
 
