@@ -3,7 +3,8 @@ import React from 'react'
 const home = () => {
   return (
     <div>
-chal nikal salle    </div>
+                                       gi hub learing pupose applyed all coomds to master gihud
+   </div>
   )
 }
 
