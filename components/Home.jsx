@@ -3,7 +3,9 @@ import React from 'react'
 const home = () => {
   return (
     <div>
-                                       gi hub learing pupose applyed all coomds to master gihud
+                 abhi main amol branch main hua and kuch changes kiye hai 
+                 dekte hian yepush hoga ki nahi
+
    </div>
   )
 }
